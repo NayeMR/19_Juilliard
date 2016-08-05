@@ -1,0 +1,22 @@
+/* Inserta tu codigo aqui */
+.fondochicosnosotros
+{
+	background-image: url("../img/dance_7.jpg");
+	background-size: 100%;
+	background-repeat: no-repeat;
+	
+}
+.fondonosotroscubes
+{
+	background-image: url("../img/fondo/cubes.png");
+	background-repeat:repeat;
+	
+}
+.cuadronopasity
+{
+	opacity:0.5;
+	background-color: black;
+	width: 450px;
+	height: 180px;
+	margin:10% 28%;
+}

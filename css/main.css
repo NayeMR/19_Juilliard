@@ -1,0 +1,56 @@
+/* Inserta tu codigo aqui */
+
+.fondoimg{
+	background-image: url("../img/dance_1.jpg");
+	background-size: 100%;
+	background-repeat: no-repeat;
+	height: 300px;
+	width: 966px;
+}
+.fondotextura
+{
+
+	background-image: url("../img/fondo/textura_2.jpg");
+	background-size: 100%;
+	background-repeat: no-repeat;
+	height: 250px;
+	width: 960px;
+
+}
+
+.fotobordeimg
+{
+	width: 490px;
+	height: 200px;
+	border: 1px solid #192951;
+	position: relative;
+	right: 14px;
+}
+.btnfloat
+{
+	position: absolute;
+	top: 38.9%;
+	right: 30%;
+	
+}
+.btnmediumfloat
+{
+	position: absolute;
+	top: 27.3%;
+	right: 44%;
+}
+.minilogo{
+	width: 10%;
+	height: 10%;
+	position: absolute;
+	top: 20.3%;
+	right: 47%; 
+	
+}
+
+
+
+
+.mapa{
+	height: 280px;
+}
